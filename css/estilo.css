@@ -1,0 +1,172 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+header h1 {
+  float: none;
+  text-align: center;
+  margin: -1000px 20px 163px 20px;
+  color: aliceblue;
+  font-size: 152px;
+  height: 800px;
+  font-weight: 100;
+  font-family: 'Roboto', sans-serif;
+  font-size: 290px;
+}
+
+.boton{
+  background-color: red;
+  color: white;
+  padding: 14px 40px;
+  border-radius: 70px;
+  border: 10px;
+  
+  
+  
+
+}
+.lt3{
+  font-size: 50px;
+  height: 60px;
+  padding: -1px ;
+  font-family: 'Roboto', sans-serif;
+
+}
+.lt0{
+  font-size: 50px;
+ height: 60px; 
+ font-family: 'Roboto', sans-serif;
+
+}
+.lt2{
+  font-size: 50px;
+  height: 60px;
+  font-family: 'Roboto', sans-serif;
+  
+}
+.img2{
+  float: left;
+  
+}
+
+.img1{
+  float: right;
+  height: 700px;
+padding: 10px 100px 0px;}
+  
+.text{
+ height: 30px;
+ font-family: 'Roboto', sans-serif;
+}
+
+
+.lt4{
+  font-size: 50px;
+  height: 48px;
+  font-family: 'Roboto', sans-serif;
+  margin: 20px 0px;
+}
+.lt5{
+  font-size: 50px;
+ height: 48px; 
+ font-family: 'Roboto', sans-serif;
+ margin: 20px 0px;
+ flex-direction: column;
+}
+
+.section1{
+ padding: 100px 539px 20px 539px;
+ height: 660px;
+}
+.divi{
+  height: 600px;
+}
+.section2{
+  padding: 100px 539px 20px 539px;
+  height: 600px;
+  
+}
+.clase_4{
+  float: right;
+}
+ 
+.section3{
+  padding: 100px 100px;
+  
+
+}
+.sec3 {
+  background: url(/iimagenes/raptis.png);
+  height: 741px;
+  background-size: cover;
+}
+.section3 {
+  color: white;
+  float: right;
+  margin: 118px 400px;
+  
+}
+
+.sec3 h2 {
+  font-size: 80px;
+  
+}
+.section3 h2 {
+  font-size: 90px;
+}
+.section3 p {
+  font-size: 30px;
+ 
+}
+
+.clear{
+  clear: both;
+}
+footer {
+  background: rgb(253, 76, 92);
+  color: white;
+  padding: 86px 123px;
+}
+.clear{
+  clear: both;
+}
+
+.ulttx{
+  display: flex;
+}
+.lista {
+  display: flex;
+  font-size: 20px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.253);
+  margin: 0px 0 30px 100px;
+}
+
+.lista div {
+  margin-right: 20px;
+  padding-bottom: 20px;
+}
+
+.lista p {
+  margin: 10px 0 0 148px;
+}
+
+.arriba {
+  padding-bottom: 10px;
+}
+
+.utmtxt{
+  margin: 0 1104px 0px 97px;
+}
+.musica{
+  color: rgb(219, 5, 114);
+  font-size: 50px;
+}
+
+
+
+
+
